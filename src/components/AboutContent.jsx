@@ -142,7 +142,7 @@ const EmailListBlock = () => (
       <FiMail />
       <a
         href="mailto:grijaldo.joshua29@gmail.com"
-        className="py-0 underline text-lg  text-white md:py-1.5 md:text-xl"
+        className="py-0 px-4 underline text-md  text-white md:py-1.5 md:text-xl"
       >
         grijaldo.joshua29@gmail.com
       </a>
