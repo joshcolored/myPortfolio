@@ -2,15 +2,11 @@ import PropTypes from "prop-types";
 import { motion } from "framer-motion";
 import { twMerge } from "tailwind-merge";
 import { FiMail, FiMapPin } from "react-icons/fi";
-import bgImage1 from "../assets/valfcicont.png";
-import bgImage2 from "../assets/myqrcont.png";
-import bgImage3 from "../assets/kabcont.png";
-import bgImage4 from "../assets/comcont.png";
+import { GiSkills } from "react-icons/gi";
 import { SiFacebook, SiGithub, SiTelegram } from "react-icons/si";
 import { AiOutlineRobot } from "react-icons/ai";
 
 const ProjectContent = () => {
-
   return (
     <div className="min-h-screen bg-[#000F08] px-4 py-12 text-[#F4FFF8]">
       <Header />
@@ -91,89 +87,28 @@ const HeaderBlock = () => (
 
 const ProjectBlock = () => (
   <>
-    <Block
-      whileHover={{
-        rotate: "2.5deg",
-        scale: 1.5,
-        zIndex: 99,
-      }}
-      className="col-span-6 md:col-span-3"
-      style={{
-        backgroundImage: `url(${bgImage1})`, // Set the background image
-        backgroundSize: "cover", // Optional: Adjust background size
-        backgroundPosition: "center", // Optional: Adjust background position
-        // Add any other CSS properties you need
-      }}
-    >
+    <Block className="col-span-12 row-span-2 md:col-span-6">
+      <div className="text-5xl mb-7 flex flex-row">
+        <h3 className="text-2xl">Skills & Technologies</h3>
+        <div className="text-2xl ml-2 mt-1">
+          <GiSkills />
+        </div>
+      </div>
+      <div className="grid grid-cols-3 mx-4 gap-10 text-center">
+        <p className="">HTML</p>
+        <p className="">CSS</p>
+        <p className="">PHP</p>
+        <p className="">React</p>
+        <p className="">Javascript</p>
+        <p className="">TailwindCSS</p>
+        <p className="">NodeJS</p>
+        <p className="">Git & GitHub</p>
+        <p className="">OpenAI</p>
+      </div>
       <a
-        href="https://valfci.com"
-        className="grid h-full place-content-center text-3xl text-white"
-      >
-        {/* Content inside your block */}
-      </a>
-    </Block>
-    <Block
-      whileHover={{
-        rotate: "2.5deg",
-        scale: 1.5,
-        zIndex: 99,
-      }}
-      className="col-span-6 md:col-span-3"
-      style={{
-        backgroundImage: `url(${bgImage2})`, // Set the background image
-        backgroundSize: "cover", // Optional: Adjust background size
-        backgroundPosition: "center", // Optional: Adjust background position
-        // Add any other CSS properties you need
-      }}
-    >
-      <a
-        href="https://valfci.com"
-        className="grid h-full place-content-center text-3xl text-white"
-      >
-        {/* Content inside your block */}
-      </a>
-    </Block>
-    <Block
-      whileHover={{
-        rotate: "2.5deg",
-        scale: 1.5,
-        zIndex: 99,
-      }}
-      className="col-span-6 md:col-span-3"
-      style={{
-        backgroundImage: `url(${bgImage3})`, // Set the background image
-        backgroundSize: "cover", // Optional: Adjust background size
-        backgroundPosition: "center", // Optional: Adjust background position
-        // Add any other CSS properties you need
-      }}
-    >
-      <a
-        href="https://valfci.com"
-        className="grid h-full place-content-center text-3xl text-white"
-      >
-        {/* Content inside your block */}
-      </a>
-    </Block>
-    <Block
-      whileHover={{
-        rotate: "2.5deg",
-        scale: 1.5,
-        zIndex: 99,
-      }}
-      className="col-span-6 md:col-span-3"
-      style={{
-        backgroundImage: `url(${bgImage4})`, // Set the background image
-        backgroundSize: "cover", // Optional: Adjust background size
-        backgroundPosition: "center", // Optional: Adjust background position
-        // Add any other CSS properties you need
-      }}
-    >
-      <a
-        href="https://valfci.com"
-        className="grid h-full place-content-center text-3xl text-white"
-      >
-        {/* Content inside your block */}
-      </a>
+        href="#"
+        className="flex items-center gap-1 text-[#F4FFF8] hover:underline"
+      ></a>
     </Block>
   </>
 );
@@ -215,13 +150,10 @@ const EmailListBlock = () => (
   </Block>
 );
 const SocialBlock = () => (
-  
   <Block className="col-span-12 flex flex-col items-center md:col-span-3">
     <p className="text-center mb-4 text-lg text-[#8BAAAD]">Socials</p>
     <div className="flex flex-row gap-4 justify-center">
-      <a
-        href="https://www.facebook.com/mntosss"
-      >
+      <a href="https://www.facebook.com/mntosss">
         <SiFacebook className="text-3xl" />
       </a>
 
