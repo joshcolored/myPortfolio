@@ -89,8 +89,8 @@ const ProjectBlock = () => (
   <>
     <Block className="col-span-12 row-span-2 md:col-span-6">
       <div className="text-5xl mb-7 flex flex-row">
-        <h3 className="text-xl md:text-2xl">Skills & Technologies</h3>
-        <div className="text-xl md:ml-2 md:mt-1 md:text-2xl">
+        <h3 className="text-lg md:text-2xl">Skills & Technologies</h3>
+        <div className="ml-2 mt-1 text-2xl">
           <GiSkills />
         </div>
       </div>
