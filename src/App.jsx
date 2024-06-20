@@ -34,7 +34,7 @@ const App = () => {
   };
 
   const handleFindClassClick = () => {
-    scrollToSection(educationRef);
+    scrollToSection(projectRef);
   };
 
   const downloadResume = () => {
