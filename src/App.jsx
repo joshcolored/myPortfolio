@@ -2,16 +2,16 @@ import { useRef, useState } from "react";
 import Chip from "./components/Chip";
 import ShuffleGrid from "./components/ShuffleGrid";
 import BubbleText from "./components/BubbleText";
-import ProjectContent from "./components/ProjectContent";
+import AboutContent from "./components/AboutContent";
+import VerticalAccordion from "./components/VerticalAccordion"
 
-const tabs = ["Home", "Projects", "Awards"];
+const tabs = ["Home", "About" ,"Projects"];
 
 const App = () => {
   const [selected, setSelected] = useState(tabs[0]); // Initialize with the first tab
 
-  const educationRef = useRef(null);
+  const aboutRef = useRef(null);
   const projectRef = useRef(null);
-  const awardsRef = useRef(null);
 
   const scrollToSection = (ref) => {
     if (ref.current) {
@@ -22,11 +22,11 @@ const App = () => {
   const handleTabClick = (tab) => {
     setSelected(tab);
     switch (tab) {
+      case "About":
+        scrollToSection(aboutRef);
+        break;
       case "Projects":
         scrollToSection(projectRef);
-        break;
-      case "Awards":
-        scrollToSection(awardsRef);
         break;
       default:
         break;
@@ -96,8 +96,11 @@ const App = () => {
         </div>
         <ShuffleGrid />
       </section>
+      <div ref={aboutRef} className="bg-white">
+        <AboutContent />
+      </div>
       <div ref={projectRef} className="bg-white">
-        <ProjectContent />
+       <VerticalAccordion />
       </div>
     </div>
   );

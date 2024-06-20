@@ -6,7 +6,7 @@ import { GiSkills } from "react-icons/gi";
 import { SiFacebook, SiGithub, SiTelegram } from "react-icons/si";
 import { AiOutlineRobot } from "react-icons/ai";
 
-const ProjectContent = () => {
+const AboutContent = () => {
   return (
     <div className="min-h-screen bg-[#000F08] px-4 py-12 text-[#F4FFF8]">
       <Header />
@@ -169,9 +169,9 @@ const SocialBlock = () => (
 const Header = () => {
   return (
     <h2 className="text-[#F4FFF8] font-bold text-5xl text-pretty mx-auto text-center mt-2 mb-16">
-      Projects
+      About Me
     </h2>
   );
 };
 
-export default ProjectContent;
+export default AboutContent;
