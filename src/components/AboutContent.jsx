@@ -139,7 +139,9 @@ const EmailListBlock = () => (
       onSubmit={(e) => e.preventDefault()}
       className="flex items-center"
     >
-      <FiMail className="pr-2" />
+      <div className="text-md text-center md:text-xl pr-2">
+      <FiMail />
+        </div>
       <a
         href="mailto:grijaldo.joshua29@gmail.com"
         className="py-0 px-4 underline text-md  text-white md:py-1.5 md:text-xl"
