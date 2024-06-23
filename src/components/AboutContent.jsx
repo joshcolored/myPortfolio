@@ -89,12 +89,12 @@ const ProjectBlock = () => (
   <>
     <Block className="col-span-12 row-span-2 md:col-span-6">
       <div className="text-5xl mb-7 flex flex-row">
-        <h3 className="text-2xl">Skills & Technologies</h3>
-        <div className="text-2xl ml-2 mt-1">
+        <h3 className="text-lg md:text-2xl">Skills & Technologies</h3>
+        <div className="ml-2 mt-1 text-2xl">
           <GiSkills />
         </div>
       </div>
-      <div className="grid grid-cols-3 mr-6 gap-12 text-center md:ml-[-1px]">
+      <div className="grid grid-cols-3 mr-8 gap-14 text-center md:ml-[-1px]">
         <p className="">HTML</p>
         <p className="">CSS</p>
         <p className="">PHP</p>
@@ -137,12 +137,14 @@ const EmailListBlock = () => (
     <p className="mb-3 text-lg">Let`s work together!</p>
     <form
       onSubmit={(e) => e.preventDefault()}
-      className="flex items-center gap-2"
+      className="flex items-center"
     >
+      <div className="text-md text-center md:text-xl pr-2">
       <FiMail />
+        </div>
       <a
         href="mailto:grijaldo.joshua29@gmail.com"
-        className="py-1.5 underline text-xl  text-white"
+        className="py-0 px-4 underline text-md  text-white md:py-1.5 md:text-xl"
       >
         grijaldo.joshua29@gmail.com
       </a>
