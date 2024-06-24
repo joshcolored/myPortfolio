@@ -94,7 +94,7 @@ const ProjectBlock = () => (
           <GiSkills />
         </div>
       </div>
-      <div className="grid grid-cols-3 mr-8 gap-14 text-center md:ml-[-1px]">
+      <div className="grid grid-cols-3 mr-8 gap-14 text-[14px] text-center md:text-[-18px] md:ml-[-1px]">
         <p className="">HTML</p>
         <p className="">CSS</p>
         <p className="">PHP</p>

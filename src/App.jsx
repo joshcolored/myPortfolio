@@ -1,17 +1,20 @@
-import { useRef, useState } from "react";
+import { useRef, useState, useEffect } from "react";
 import Chip from "./components/Chip";
 import ShuffleGrid from "./components/ShuffleGrid";
 import BubbleText from "./components/BubbleText";
 import AboutContent from "./components/AboutContent";
 import VerticalAccordion from "./components/VerticalAccordion"
 
-const tabs = ["Home", "About" ,"Projects"];
+
+const tabs = ["Home", "About", "Projects"];
 
 const App = () => {
   const [selected, setSelected] = useState(tabs[0]); // Initialize with the first tab
 
   const aboutRef = useRef(null);
   const projectRef = useRef(null);
+
+
 
   const scrollToSection = (ref) => {
     if (ref.current) {
@@ -46,6 +49,8 @@ const App = () => {
     anchorElement.click();
     document.body.removeChild(anchorElement);
   };
+
+
 
   return (
     <div className="bg-[#F4FFF8] text-[#000F08] bg-[100vh]">
@@ -100,7 +105,7 @@ const App = () => {
         <AboutContent />
       </div>
       <div ref={projectRef} className="bg-white">
-       <VerticalAccordion />
+        <VerticalAccordion />
       </div>
     </div>
   );
