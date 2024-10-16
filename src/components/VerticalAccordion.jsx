@@ -1,5 +1,5 @@
 import { FiDollarSign } from "react-icons/fi";
-import { FaQrcode } from "react-icons/fa";
+import { FaQrcode, FaBoxOpen } from "react-icons/fa";
 import { GiGearHammer } from "react-icons/gi";
 import { AnimatePresence, motion } from "framer-motion";
 import { MdLocalShipping } from "react-icons/md";
@@ -9,6 +9,7 @@ import bg1 from "../assets/valfcibg.png"
 import myqrbg from "../assets/myqrbg.png"
 import kabayanbg from "../assets/kabayanbg.png"
 import combg from "../assets/comcont.png"
+import kcmli from "../assets/kcmli.png"
 
 const VerticalAccordion = () => {
   const [open, setOpen] = useState(items[0].id);
@@ -163,6 +164,15 @@ const items = [
   },
   {
     id: 4,
+    title: "KCM Luxe Interiors",
+    Icon: FaBoxOpen,
+    imgSrc:
+      kcmli,
+    description:
+      "Kabayan Cargo Movers - Luxe Interiors is a comprehensive logistics and moving company offering installations or furniture services, transportation, warehousing, and furnishing.",
+  },
+  {
+    id: 5,
     title: "Coming Soon",
     Icon: GiGearHammer,
     imgSrc:
