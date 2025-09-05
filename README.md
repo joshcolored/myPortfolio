@@ -1,7 +1,7 @@
-<h1 align="center">Hi! I'm Carlo 🤓</h1>
-<p align="center"><b>Software Engineer from Iloilo PH</b></p>
+<h1 align="center">Hi! I'm JOSH 😁</h1>
+<p align="center"><b>a Web Developer from Bacolod</b></p>
 <p align="center">
-  <a href="https://carlo.vercel.app/" target="_blank">🔷 🔹 carlo.vercel.app 🔹 🔷</a> 
+  <a href="https://joshcodes.vercel.app/" target="_blank">⭕ joshcodes.vercel.app ⭕</a> 
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=blankeos&label=Profile+Views&color=3b82f6&style=for-the-badge" alt="Blankeos" /></p>
 
