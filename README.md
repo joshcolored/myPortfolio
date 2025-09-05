@@ -2,12 +2,14 @@
 <p align="center"><b>Web Developer • Software Engineer • Maker of Things</b></p>
 
 <p align="center">
-  <a href="https://joshcodes.vercel.app/" target="_blank">🌐 joshcodes.vercel.app</a> 
+  <img src="https://komarev.com/ghpvc/?username=joshcolored&label=Profile+Views&color=3b82f6&style=for-the-badge" alt="profile views" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joshcolored&label=Profile+Views&color=3b82f6&style=for-the-badge" alt="profile views" />
+  <a href="https://joshcodes.vercel.app/" target="_blank">🌐 joshcodes.vercel.app 🌐</a> 
 </p>
+
+
 
 ---
 
