@@ -74,17 +74,17 @@
   <a href="https://github.com/joshcolored/allsend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshcolored&repo=allsend&theme=dark&border_color=3B82F6&title_color=3B82F6&icon_color=3B82F6" />
   </a>
-  <a href="https://github.com/blankeos/solid-launch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=blankeos&repo=solid-launch&theme=dark&border_color=3B82F6&title_color=3B82F6&icon_color=3B82F6" />
+  <a href="https://github.com/joshcolored/dondeezco">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshcolored&repo=dondeezco&theme=dark&border_color=3B82F6&title_color=3B82F6&icon_color=3B82F6" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/blankeos/vike-metadata">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=blankeos&repo=vike-metadata&theme=dark&border_color=3B82F6&title_color=3B82F6&icon_color=3B82F6" />
+  <a href="https://github.com/joshcolored/kcmlis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshcolored&repo=kcmlis&theme=dark&border_color=3B82F6&title_color=3B82F6&icon_color=3B82F6" />
   </a>
-  <a href="https://github.com/blankeos/solid-number-flow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=blankeos&repo=solid-number-flow&theme=dark&border_color=3B82F6&title_color=3B82F6&icon_color=3B82F6" />
+  <a href="https://github.com/joshcolored/madenewrealty">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshcolored&repo=madenewrealty&theme=dark&border_color=3B82F6&title_color=3B82F6&icon_color=3B82F6" />
   </a>
 </p>
 
