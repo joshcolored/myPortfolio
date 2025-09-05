@@ -93,10 +93,9 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://instagram.com/taleoncarlo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/carlotaleon/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/hekiahhhh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://joshcodes.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.npmjs.com/~blankeos"><img src="https://img.shields.io/badge/npm-cc3534?style=for-the-badge&logo=npm&logoColor=white" /></a>
 </p>
 
 ---
