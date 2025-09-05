@@ -71,8 +71,8 @@
 ## 📌 Pinned Repositories
 
 <p align="center">
-  <a href="https://github.com/blankeos/svelte-launch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=blankeos&repo=svelte-launch&theme=dark&border_color=3B82F6&title_color=3B82F6&icon_color=3B82F6" />
+  <a href="https://github.com/joshcolored/allsend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshcolored&repo=allsend&theme=dark&border_color=3B82F6&title_color=3B82F6&icon_color=3B82F6" />
   </a>
   <a href="https://github.com/blankeos/solid-launch">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=blankeos&repo=solid-launch&theme=dark&border_color=3B82F6&title_color=3B82F6&icon_color=3B82F6" />
