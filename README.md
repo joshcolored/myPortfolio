@@ -27,32 +27,32 @@
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://img.shields.io/badge/SolidJS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white" />
   <img src="https://img.shields.io/badge/Svelte-f03e2f?style=for-the-badge&logo=svelte&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" />
   <img src="https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  
 </p>
 
 <p align="center">
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vike-0F172A?style=for-the-badge&logo=v&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Hono-E34F26?style=for-the-badge&logo=hono&logoColor=white" />
-  <img src="https://img.shields.io/badge/ElysiaJS-3b82f6?style=for-the-badge&logo=elysia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 <p align="center">
   <!-- Databases & Storage -->
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare%20R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Backblaze%20B2-d9252a?style=for-the-badge&logo=backblaze&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+
 </p>
 
 <p align="center">
   <!-- DevOps -->
-  <img src="https://img.shields.io/badge/Dokploy-0f172a?style=for-the-badge&logo=docker&logoColor=3b82f6" />
-  <img src="https://img.shields.io/badge/Dokku-0f172a?style=for-the-badge&logo=docker&logoColor=orange" />
   <img src="https://img.shields.io/badge/AWS%20SST-232F3E?style=for-the-badge&logo=amazonaws&logoColor=yellow" />
   <img src="https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare&logoColor=f38020" />
 </p>
@@ -62,23 +62,9 @@
 ## 💻 Featured Projects
 
 ### 🚀 Apps & Tools
-- 🦴 [**ScolioVis.app**](https://scoliovis.app) → Computer vision + ML app for scoliosis detection (Undergrad Thesis)  
-- 📘 [**LinkRoom**](https://linkroom.vercel.app) → Link dashboard app (🏆 3rd place at DICT Region 6 Startup Pitching Comp.)  
-- 🎙️ [**Resonate**](https://resonate-social.vercel.app) → Audio-based social app (Svelte + Convex, built for WebDevCody’s hackathon)  
-- ☕ [**Cafe.ly**](https://cafely.vercel.app) → Yelp-style product review app for coffee lovers  
-- 🦎 [**Chromeleon**](https://play.google.com/store/apps/details?id=com.DigikattStudios.Chromeleon) → My very first game, built in high school  
-
-### 📦 Open Source & Libraries
-- [🧡 SvelteLaunch](https://github.com/blankeos/svelte-launch) / [💙 SolidLaunch](https://github.com/Blankeos/solid-launch) – Boilerplates for shipping full-stack apps  
-- [🌀 Spring Solid](https://primitives.solidjs.community/package/spring) – Physics-based animation lib (official Solid Primitive)  
-- [💰 Quarta](http://quarta.pages.dev) – Personal finance insights from your spreadsheets  
-- [npm packages](https://www.npmjs.com/~blankeos):  
-  - [bagon-hooks](https://github.com/blankeos/bagon-hooks) → Handy hooks for Solid  
-  - [solid-number-flow](https://github.com/blankeos/solid-number-flow) → Number animations  
-  - [vike-metadata](https://github.com/blankeos/vike-metadata) → NextJS-style metadata for Vike  
-  - [vike-routegen](https://github.com/blankeos/vike-routegen) → Type-safe routes in Vike  
-  - [tsdot](https://github.com/blankeos/tsdot) → Superfast templating engine  
-  - [icones-cli](https://github.com/blankeos/icones-cli) → Add icons to your app, dependency-free  
+- 📂[**AllSend**](https://all-send.vercel.app) → A web app that u can transfer files instantly.
+- 🐚 [**Dondeezco**](https://dondeezco.vercel.app) → A booking management for easy reservations.
+- More soon...
 
 ---
 
