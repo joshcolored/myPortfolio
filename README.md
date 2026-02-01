@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://joshcodes.vercel.app/" target="_blank">🌐 joshcodes.vercel.app 🌐</a> 
+  <a href="https://joshcolored.vercel.app/" target="_blank">🌐 joshcolored.vercel.app 🌐</a> 
 </p>
 
 
