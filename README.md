@@ -68,28 +68,6 @@
 
 ---
 
-## 📌 Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/joshcolored/allsend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshcolored&repo=allsend&theme=dark&border_color=3B82F6&title_color=3B82F6&icon_color=3B82F6" />
-  </a>
-  <a href="https://github.com/joshcolored/dondeezco">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshcolored&repo=dondeezco&theme=dark&border_color=3B82F6&title_color=3B82F6&icon_color=3B82F6" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/joshcolored/kcmlis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshcolored&repo=kcmlis&theme=dark&border_color=3B82F6&title_color=3B82F6&icon_color=3B82F6" />
-  </a>
-  <a href="https://github.com/joshcolored/madenewrealty">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshcolored&repo=madenewrealty&theme=dark&border_color=3B82F6&title_color=3B82F6&icon_color=3B82F6" />
-  </a>
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">
@@ -97,16 +75,3 @@
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://joshcodes.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=joshcolored&show_icons=true&theme=dark&count_private=true&border_radius=5&border_color=3B82F6&icon_color=3B82F6&title_color=3B82F6&text_color=ffffff" alt="Josh's GitHub stats" />
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img width="400" src="https://streak-stats.demolab.com?user=joshcolored&theme=dark&border_radius=5&ring=3B82F6&currStreakLabel=3B82F6&border=3B82F6&fire=3B82F6" />
-  </a>
-</div>
