@@ -162,9 +162,6 @@ const SocialBlock = () => (
       <a href="https://www.github.com/joshcolored">
         <SiGithub className="text-3xl" />
       </a>
-      <a href="https://www.instagram.com/hekiahhhh/">
-        <SiInstagram className="text-3xl" />
-      </a>
     </div>
   </Block>
 );
@@ -177,4 +174,5 @@ const Header = () => {
 };
 
 export default AboutContent;
+
 
