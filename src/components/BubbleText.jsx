@@ -3,7 +3,7 @@ import styles from "../bubble.module.css";
 const BubbleText = () => {
     return (
       <h2 className="cursor-pointer text-4xl md:text-6xl font-semibold">
-        {"JoshCodes".split("").map((child, idx) => (
+        {"JoshColored".split("").map((child, idx) => (
           <span className={styles.hoverText} key={idx}>
             {child}
           </span>
@@ -13,3 +13,4 @@ const BubbleText = () => {
   };
 
 export default BubbleText;
+
