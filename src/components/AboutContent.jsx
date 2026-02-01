@@ -155,15 +155,15 @@ const SocialBlock = () => (
   <Block className="col-span-12 flex flex-col items-center md:col-span-3">
     <p className="text-center mb-4 text-lg text-[#8BAAAD]">Socials</p>
     <div className="flex flex-row gap-4 justify-center">
-      <a href="https://www.facebook.com/mntosss">
+      <a href="https://www.facebook.com/hekiahhhh">
         <SiFacebook className="text-3xl" />
       </a>
 
-      <a href="https://www.github.com/zyphyres">
+      <a href="https://www.github.com/joshcolored">
         <SiGithub className="text-3xl" />
       </a>
-      <a href="#">
-        <SiTelegram className="text-3xl" />
+      <a href="https://www.instagram.com/hekiahhhh/">
+        <SiInstagram className="text-3xl" />
       </a>
     </div>
   </Block>
@@ -177,3 +177,4 @@ const Header = () => {
 };
 
 export default AboutContent;
+
